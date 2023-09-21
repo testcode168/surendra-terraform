@@ -2,7 +2,7 @@ This repository contains some simple coding tests for candidates to demonstrate 
 
 To complete the test:
 
-1. Fork a copy of this repository to your own Github
+1. Clone a copy of this repository to your own Github (do not fork for your own privacy from other candidates)
 2. Perform the tasks listed in the "tasks.txt" file in each directory
-3. Complete the tasks and submit a pull request back to this repository with your response ahead of your scheduled interview
-4. Your PR will be reviewed as part of the interview
+3. Commit the changes into your own repository
+4. Submit the URL for your repo and ahead of your interview for review and ensure it is publically readable
