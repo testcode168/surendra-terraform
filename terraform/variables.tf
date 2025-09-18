@@ -57,7 +57,7 @@ variable "min_size" {
   default = 2
 }
 
-variable "user_data" {
+variable "test" {
   description = "Ec2"
   type = string
   default = ""
