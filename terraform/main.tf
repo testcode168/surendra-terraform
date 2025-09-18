@@ -78,7 +78,7 @@ resource "aws_launch_template" "ec2_template" {
     name = aws_iam_instance_profile.ec2-profile.name
   }
 
-  user_data = base64decode(var.user_data.sh)
+  user_data = base64decode(var.test.sh)
   vpc_security_group_ids = [aws_security_group.ec2_sg.id]
 }
 
